@@ -1,4 +1,3 @@
 backend/venv/
 frontend/node_modules/
-backend/temp.py
-backend/telemetry.py
+old_files
